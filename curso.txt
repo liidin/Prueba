@@ -1,0 +1,5 @@
+En este entrenamiento, se superaron todas las barreras y te sumergiste por primera vez en Git y Github.
+
+Aprendiste lo que és y cómo usar el Github de una forma práctica a través de commits y hasta invitaste una persona a participar de tu proyecto. 
+Vimos la diferencia entre Git y Github y aprendimos los principales comandos,
+ como clone, pull, commit, restore, branch y merge.
